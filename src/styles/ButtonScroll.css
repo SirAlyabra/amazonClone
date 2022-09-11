@@ -1,0 +1,28 @@
+.next{
+    position: absolute;
+    width: 5%;
+    height: calc(30vh - 10px);
+    right: 0;
+    /* bottom: 0; */
+    background: linear-gradient(270deg,transparent 0,hsla(0,0%,7%,.6))
+
+}
+
+.preview {
+    position: absolute;
+    width: 5%;
+    height: calc(30vh - 10px);
+    left: 0;
+    background: linear-gradient(90deg,transparent 0,hsla(0,0%,7%,.6))
+}
+
+.icon-next {
+    position: absolute;
+    top: 50px;
+}
+
+.icon-preview {
+    position: absolute;
+    top: 50px;
+    rotate: 180deg;
+}
