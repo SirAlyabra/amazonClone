@@ -19,6 +19,7 @@
 .icon-next {
     position: absolute;
     top: 50px;
+    right: 0;
 }
 
 .icon-preview {
